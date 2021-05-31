@@ -1,0 +1,31 @@
+[
+	{"time": 1050, "level": 20},
+	{"time": 1150, "level": 20},
+	{"time": 1250, "level": 20},
+	{"time": 1350, "level": 20},
+	{"time": 1450, "level": 20},
+	{"time": 1550, "level": 20},
+	{"time": 1650, "level": 20},
+	{"time": 1750, "level": 20},
+	{"time": 1850, "level": 20},
+	{"time": 1950, "level": 20},
+	{"time": 2050, "level": 20},
+	{"time": 2150, "level": 20},
+	{"time": 2250, "level": 20},
+
+	{"time": 3050, "level": 20},
+	{"time": 3150, "level": 20},
+	{"time": 3250, "level": 20},
+	{"time": 3350, "level": 20},
+	{"time": 3450, "level": 20},
+	{"time": 3550, "level": 20},
+	{"time": 3650, "level": 20},
+	{"time": 3750, "level": 20},
+	{"time": 3850, "level": 20},
+	{"time": 3950, "level": 20},
+	{"time": 4050, "level": 20},
+	{"time": 4150, "level": 20},
+
+	{"time": 12900, "level": 40},
+	{"time": 13200, "level": 40}
+]
